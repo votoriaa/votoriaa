@@ -1,3 +1,14 @@
+### Hello! I'm Victoria Caixeta :P.
+
+- 👦🏻 I'm 17 years old
+
+
+
+<div>
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=votoriaa&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api?username=votoriaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/votoriaa/votoriaa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/votoriaa/votoriaa/output/github-contribution-grid-snake-dark.svg">
