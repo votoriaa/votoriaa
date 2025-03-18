@@ -1,8 +1,9 @@
-### Hello! I'm Victoria Caixeta :P.
-
-- 👦🏻 I'm 17 years old
-
-
+<div align="center">
+   <p>
+     <h3> Olá , Eu sou Victoria :P </h3>
+     <h4> Técnico em Informática - IFSULDEMINAS </h4>
+  </p>
+</div>
 
 <div>
 <img height="180em" src="https://github-readme-stats-dgfd.vercel.app/api/top-langs/?username=votoriaa&layout=compact&langs_count=7&theme=dracula"/>
