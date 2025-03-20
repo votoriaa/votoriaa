@@ -1,6 +1,6 @@
 <div align="center">
    <p>
-     <h3> Olá , Eu sou Victoria :P </h3>
+     <h3> Olá , Eu sou Victoria :p </h3>
      <h4> Técnico em Informática - IFSULDEMINAS </h4>
   </p>
 </div>
